@@ -1,0 +1,20 @@
+* {
+  background-color: #ebd077;
+}
+
+main .briefing-card {
+  background-color: #fff;
+  height: 500px;
+  margin: 15px 15px 15px 15px;
+}
+
+main img {
+  width: 50%;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+main p {
+  position: absolute;
+}
+/*# sourceMappingURL=styles.css.map */
